@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace Entities.DataTransferObjects
 {
     public record BookDtoForUpdate(int Id, String Title, decimal Price);
-    
-        //public int Id { get; init; }
-        //public String Title { get; init; }
-        //public decimal Price { get; init; }
-    
+
+
+    //public int Id { get; init; }
+    //public String Title { get; init; }
+    //public decimal Price { get; init; }
+
 }
