@@ -6,7 +6,7 @@
       "applicationUrl": "http://localhost:36216",
       "sslPort": 44333
     }
-  },
+  },   
   "profiles": {
     "HelloWebApi": {
       "commandName": "Project",
