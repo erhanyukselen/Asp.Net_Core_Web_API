@@ -110,3 +110,15 @@
 2024-11-28 00:53:34.8600 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
 2024-11-28 00:53:34.8997 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Erhan\source\repos\basics\bsStoreApp\WebApi\nlog.config
 2024-11-28 00:53:34.9429 Info Configuration initialized.
+2024-12-01 14:22:06.9196 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-01 14:22:06.9490 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-01 14:22:06.9690 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Erhan\source\repos\basics\bsStoreApp\WebApi\nlog.config
+2024-12-01 14:22:06.9842 Info Configuration initialized.
+2024-12-01 15:58:50.8723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-01 15:58:50.8937 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-01 15:58:50.9082 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Erhan\source\repos\basics\bsStoreApp\WebApi\nlog.config
+2024-12-01 15:58:50.9220 Info Configuration initialized.
+2024-12-01 16:14:09.8288 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-01 16:14:09.8455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-01 16:14:09.8598 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Erhan\source\repos\basics\bsStoreApp\WebApi\nlog.config
+2024-12-01 16:14:09.8726 Info Configuration initialized.
