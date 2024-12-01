@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BookDemo.Controllers
 {
-    [Route("api/books")]
+    [Route("api/books")]                 
     [ApiController]
     public class BooksController : ControllerBase
     {
