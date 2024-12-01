@@ -14,7 +14,7 @@ namespace BookDemo.Controllers
         public IActionResult GetAllBooks()
         {
             var books = ApplicationContext.Books;
-            return Ok(books);
+            return Ok(books);  
         }
 
         [HttpGet("{id:int}")]
