@@ -7,7 +7,7 @@
       "applicationUrl": "http://localhost:11725",
       "sslPort": 44388
     }
-  },
+  },    
   "profiles": {
     "BookDemo": {
       "commandName": "Project",
